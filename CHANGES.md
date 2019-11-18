@@ -1,4 +1,4 @@
-### 0.2 (unreleased)
+### 0.2 (2016-11-18)
 
 * Change library name to `cf` to match the ocamlfind and OCaml library
   names
